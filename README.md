@@ -8,7 +8,7 @@ The two main objectives of this application are:
 • The online storage of values in a database.
 
 # 1.1 Scope
-Initially, the application collects the values of the accelerometer and gyroscope sensors, as well as the touch gestures. It also displays a related graph when the application starts this function in the corresponding view sections. It is worth noting that when the gesture events are displayed, a text appears informing the user whether the service is currently running or not.
+Initially, the application collects the values of the accelerometer and gyroscope sensors, as well as the touch gestures and keystrokes. It also displays a related graph when the application starts this function in the corresponding view sections. It is worth noting that when the gesture events are displayed, a text appears informing the user whether the service is currently running or not.
 The online database is designed in such a way that multiple users can store their sensor data at any time. Thus, there is no concern about data separation and synchronization. The application covers all the possibilities of malfunction of the multi-communication with the base.
 Also, the application is completely secure as it does not receive any personal information from users while it automatically informs them about the access to the available resources of each device during installation and execution.
 The API is built to download the given data from the application and to store it in the online MySQL database. The API data transmission is built on key elements and therefore is not encrypted.
