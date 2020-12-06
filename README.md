@@ -11,7 +11,7 @@ The two main objectives of this application are:
 
 • The online storage of values in a database.
 
-# 1.1 Scope
+# 1.1 Description
 Initially, the application collects the values of the accelerometer and gyroscope sensors, as well as the touch gestures and keystrokes. 
 The online database is designed in such a way that multiple users can store their sensor data at any time. Thus, there is no concern about data separation and synchronization. The application covers all the possibilities of malfunction of the multi-communication with the base.
 Also, the application is completely secure as it does not receive any personal information from users while it automatically informs them about the access to the available resources of each device during installation and execution.
@@ -34,15 +34,12 @@ In the folder “For Data Base” you will find the folder public_html where the
 $mysql_user="Your user name";
 $mysql_pass="Your password";
 
-
-
 # 1.6	Application code
 You can download the code or clone it. Run the code in Android Studio and create an APK with which you can install the application on a mobile device.
 
 # 1.7	Contributions
 Contributions are welcome. A software system must be sustainable and scalable. Knowing the types of expected changes, the structure of the application is such that it significantly enhances the creation of an architecture that could accommodate all possible types of expected changes.
 The project was developed in Android Studio. To use the source code of the program, as well as for compiling and redistributing, developers who may be extending the code should use the latest version of Android Studio with the latest version of the Android SDK installed.
-
 
 # Cite
 
