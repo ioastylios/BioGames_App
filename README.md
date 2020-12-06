@@ -8,6 +8,7 @@ BioGames is an Android application for controlling sensor values by users, inclu
 The two main objectives of this application are:
 
 • The recording of sensor values, touch gestures and keystroke dynamics.
+
 • The online storage of values in a database.
 
 # 1.1 Scope
