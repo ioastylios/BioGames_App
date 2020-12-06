@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--<color name="colorPrimary">#BF4D00</color>-->
+    <!--<color name="colorPrimaryDark">#643214</color>-->
+    <!--<color name="colorAccent">#D5684F</color>-->
+    <color name="colorPrimary">#fff</color>
+    <color name="colorPrimaryDark">#212121</color>
+    <color name="colorAccent">#414141</color>
+    <color name="colorTitle">#009788</color>
+
+    <color name="white">#fff</color>
+    <color name="dark">#212121</color>
+    <color name="button_primary">#414141</color>
+    <color name="button_text">#FFF</color>
+    <color name="editTextBg">#80FFFFFF</color>
+</resources>

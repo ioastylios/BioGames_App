@@ -1,0 +1,100 @@
+{
+  "walkGames": [
+    {
+      "quizDifficulty": "4",
+      "quizType": "walk4",
+      "noOfSteps": 160,
+      "time": 120
+    },
+    {
+      "quizDifficulty": "3",
+      "quizType": "walk4",
+      "noOfSteps": 140,
+      "time": 120
+    },
+    {
+      "quizDifficulty": "2",
+      "quizType": "walk4",
+      "noOfSteps": 120,
+      "time": 60
+    },
+    {
+      "quizDifficulty": "1",
+      "quizType": "walk4",
+      "noOfSteps": 100,
+      "time": 60
+    },
+    {
+      "quizDifficulty": "4",
+      "quizType": "walk3",
+      "noOfSteps": 160,
+      "time": 120
+    },
+    {
+      "quizDifficulty": "3",
+      "quizType": "walk3",
+      "noOfSteps": 140,
+      "time": 120
+    },
+    {
+      "quizDifficulty": "2",
+      "quizType": "walk3",
+      "noOfSteps": 120,
+      "time": 60
+    },
+    {
+      "quizDifficulty": "1",
+      "quizType": "walk3",
+      "noOfSteps": 100,
+      "time": 60
+    },
+    {
+      "quizDifficulty": "4",
+      "quizType": "walk2",
+      "noOfSteps": 160,
+      "time": 120
+    },
+    {
+      "quizDifficulty": "3",
+      "quizType": "walk2",
+      "noOfSteps": 140,
+      "time": 120
+    },
+    {
+      "quizDifficulty": "2",
+      "quizType": "walk2",
+      "noOfSteps": 120,
+      "time": 60
+    },
+    {
+      "quizDifficulty": "1",
+      "quizType": "walk2",
+      "noOfSteps": 100,
+      "time": 60
+    },
+    {
+      "quizDifficulty": "4",
+      "quizType": "walk1",
+      "noOfSteps": 160,
+      "time": 120
+    },
+    {
+      "quizDifficulty": "3",
+      "quizType": "walk1",
+      "noOfSteps": 140,
+      "time": 120
+    },
+    {
+      "quizDifficulty": "2",
+      "quizType": "walk1",
+      "noOfSteps": 120,
+      "time": 60
+    },
+    {
+      "quizDifficulty": "1",
+      "quizType": "walk1",
+      "noOfSteps": 100,
+      "time": 60
+    }
+  ]
+}

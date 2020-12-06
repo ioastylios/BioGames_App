@@ -1,0 +1,41 @@
+<html>
+<head>
+<title>CustomGestureDetector.java</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<style type="text/css">
+.s0 { color: #000080; font-weight: bold;}
+.s1 { color: #000000;}
+</style>
+</head>
+<body bgcolor="#ffffff">
+<table CELLSPACING=0 CELLPADDING=5 COLS=1 WIDTH="100%" BGCOLOR="#c0c0c0" >
+<tr><td><center>
+<font face="Arial, Helvetica" color="#000000">
+CustomGestureDetector.java</font>
+</center></td></tr></table>
+<pre><span class="s0">package </span>com.example.quizgame.gesture;
+
+<span class="s0">import </span>android.content.Context;
+<span class="s0">import </span>android.view.GestureDetector;
+<span class="s0">import </span>android.view.MotionEvent;
+<span class="s0">import </span>android.view.View;
+
+<span class="s0">public class </span>CustomGestureDetector <span class="s0">extends </span>GestureDetector{
+
+    com.example.quizgame.OnSwipeTouchListener.CustomOnGestureListener mListener;
+
+    <span class="s0">public </span>CustomGestureDetector(Context context, com.example.quizgame.OnSwipeTouchListener.CustomOnGestureListener listener) {
+        <span class="s0">super</span>(context, listener);
+        mListener = listener;
+    }
+    @Override
+    <span class="s0">public boolean </span>onTouchEvent(MotionEvent ev) {
+        <span class="s0">boolean </span>consume = (mListener != <span class="s0">null</span>)? mListener.onTouchEvent(ev) : <span class="s0">false</span>;
+        <span class="s0">return </span>consume || <span class="s0">super</span>.onTouchEvent(ev);
+    }
+
+
+
+}</pre>
+</body>
+</html>

@@ -1,0 +1,76 @@
+{
+  "imageQuizes": [
+    {
+      "quizDifficulty": "1",
+      "quizType": "touch2",
+      "noOfImgs": 15,
+      "time": 7
+    },
+    {
+      "quizDifficulty": "2",
+      "quizType": "touch2",
+      "noOfImgs": 15,
+      "time": 6
+    },
+    {
+      "quizDifficulty": "3",
+      "quizType": "touch2",
+      "noOfImgs": 15,
+      "time": 8
+    },
+    {
+      "quizDifficulty": "4",
+      "quizType": "touch2",
+      "noOfImgs": 15,
+      "time": 7
+    },
+    {
+      "quizDifficulty": "1",
+      "quizType": "touch3",
+      "noOfImgs": 2,
+      "time": 5
+    },
+    {
+      "quizDifficulty": "2",
+      "quizType": "touch3",
+      "noOfImgs": 3,
+      "time": 10
+    },
+    {
+      "quizDifficulty": "3",
+      "quizType": "touch3",
+      "noOfImgs": 3,
+      "time": 8
+    },
+    {
+      "quizDifficulty": "4",
+      "quizType": "touch3",
+      "noOfImgs": 4,
+      "time": 10
+    },
+    {
+      "quizDifficulty": "1",
+      "quizType": "touch4",
+      "noOfImgs": 5,
+      "time": 7
+    },
+    {
+      "quizDifficulty": "2",
+      "quizType": "touch4",
+      "noOfImgs": 9,
+      "time": 8
+    },
+    {
+      "quizDifficulty": "3",
+      "quizType": "touch4",
+      "noOfImgs": 11,
+      "time": 9
+    },
+    {
+      "quizDifficulty": "4",
+      "quizType": "touch4",
+      "noOfImgs": 13,
+      "time": 10
+    }
+  ]
+}

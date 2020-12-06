@@ -1,0 +1,98 @@
+<resources>
+    <string name="app_name">BioGames</string>
+    <string name="app_title">BioGames - Aegean Collection Tool</string>
+    <string name="easy">1</string>
+    <string name="medium">2</string>
+    <string name="hard">3</string>
+    <string name="hardcore">4</string>
+    <string name="keystroke1">KeyStroke Game-1</string>
+    <string name="keystroke2">KeyStroke Game-2</string>
+    <string name="keystroke3">KeyStroke Game-3</string>
+    <string name="keystroke4">KeyStroke Game-4</string>
+    <string name="walk1">Walking Game-1</string>
+    <string name="walk2">Walking Game-2</string>
+    <string name="walk3">Walking Game-3</string>
+    <string name="walk4">Walking Game-4</string>
+    <string name="touch1">Touch Game-1</string>
+    <string name="touch2">Touch Game-2</string>
+    <string name="touch3">Touch Game-3</string>
+    <string name="touch4">Touch Game-4</string>
+    <string name="touch5">Touch Game-5</string>
+    <string name="tutorialkey1">In this game a number will be displayed on your screen.\n You need to write that number in words and submit your answer.\n Try to answer all questions within given time."</string>
+    <string name="tutorialkey2">"In this game few numbers will be displayed on your screen one by one.\n You need to memorise them and then write all shown numbers nit number.\n Try to answer all questions within given time."</string>
+    <string name="tutorialkey3">"In this game few words will be displayed on your screen one by one.\n You need to memorise them and then write then in correct sequence in space ' ' separated format.\n Try to answer all questions within given time."</string>
+    <string name="tutorialkey4">"In this game a string will be displayed on your screen for few seconds.\n You need to memorise it and then write it in answer section.\n Try to answer all questions within given time."</string>
+    <string name="tutorialtouch1">"In this game A statement will be shown.\n You need to answer if that statement is correct or wrong by swipe left or right.\n Try to answer all questions within given time."</string>
+    <string name="tutorialtouch2">"In this game 'X' number of images will be displayed on your screen for few seconds.\n You need to memorise them and then guess if shown image was present in already shown images.\n Try to answer all questions within given time."</string>
+    <string name="tutorialtouch3">"In this game 'X' number of balloons will be displayed on your screen.\n You need to burst them all simultaneously.\n Try to burst within given time."</string>
+    <string name="tutorialtouch4">"In this game 'X' number of switch buttons will be displayed on your screen.\n You need to turn them all within given time."</string>
+    <string name="tutorialtouch5">"In this game a button and balloon will be displayed on your screen.\n You need to burst the balloon by tapping on it while you hold the button.Try to burst them all within given time."</string>
+    <string name="tutorialwalk1">"Let’s burn 30 calories walking. Can you do it? Make as many steps as possible in "</string>
+    <string name="tutorialwalk2">"Let’s burn 30 calories walking. Can you do it? Make as many jumps as possible in "</string>
+    <string name="tutorialwalk3">"Let’s burn 30 calories walking. Can you do it? Make as many squats as possible in "</string>
+    <string name="tutorialwalk4">"Let’s burn 30 calories walking. Can you do it? Make as many squats as possible in "</string>
+    <string name="walk_method1">For every 10 steps you will get 1 star!</string>
+    <string name="walk_method2">For every 10 jumps you will get 1 star!</string>
+    <string name="walk_method3">For every 10 squats you will get 1 star!</string>
+    <string name="walk_method4">For every 10 squats you will get 1 star!</string>
+    <string name="success">Success</string>
+    <string name="failure">Failure</string>
+    <string name="dialog_title">Do you want to use previous username or create a new one?</string>
+    <string name="terms_condition">Terms of Services &amp; Privacy Policy </string>
+    <string name="select_above">Select above options in order to play!</string>
+    <string name="terms_condition_contents">
+        <![CDATA[
+<b>Terms of services</b>
+<br><br>
+The following information defines the conditions under which the use of Aegean Collection Tools is operated by Info-Sec-Lab Team, Department of Information and Communication Systems Engineering, University of the Aegean, Samos, Greece. These conditions are accepted by the entirety of our community during the registration stage by checking the option entitled “I accept the Terms of Services &amp; Privacy Policy.” Any deviations from these specified conditions are not accepted.
+<br><br>
+1. Description of the scope of service: Aegean Collection Tools operates a behavioral biometrics collection Application. All users can create a profile and play the games available.
+<br>
+2. Access / Contract Confirmation: In order for users to access Aegean Collection Tools services they must register. For the registration the user requires a username and consent for acceptance of the Terms of Services &amp; Privacy Policy. Once consent is entered into our application, registration is considered complete.
+<br>
+3. Data Use, Data Sharing and Data Forwarding: Info-Sec Lab takes care to respect the legal data protection regulations, in particular the EU General Data Protection regulations, and more specifically the EU General Data Protection Regulation 2016/679.
+<br>
+<br>
+We comply with the GDPR 2016/679.
+<br>
+<br>
+Information we collect when you interact with us through the Services, we may collect Personal Data and other information from you, as further described below:
+<br>
+<br>
+Personal Data That You Provide Through the Services: We collect Personal Data from you when you voluntarily provide such information, such as when you contact us with inquiries, register for access to the Services or use certain Services, which typically includes your: Username, Age, Gender.
+<br>
+Technical or other details about any device which you use to access the Services, including device Unique Device Identifier (UDID) or equivalent; mobile device (including your mobile device type and number and mobile carrier details), if applicable; or other technical details.
+<br>
+Details of your use of our Services: metrics information about when and how you use the Services; mobile sensor information; information about mobile gestures (taps and swipes).
+<br>
+By voluntarily providing us with Personal Data, you are consenting to us using them in the context of the Services and in accordance with this Privacy Policy.
+<br>
+<br>
+Our Use of Your Personal Data and Other Information
+<br>
+By providing us with the information about you discussed above, you consent for us to use that information in the following ways:
+<br>
+<br>
+
+•	To implement and publish a continuous authentication mechanism based on anonymized sensor, gesture data, keystroke, gait, which we acquire when using our services.
+<br>
+•	To make publicly available an anonymized sensor and gesture, keystroke, gait, dataset.
+<br>
+•	Info-Sec-Lab Team is a research team and the biometric data processing is done for scientific purposes.
+<br>
+<br>
+
+Where and how we store your personal information
+<br>
+The information that we collect from you will be held in servers of the University of the Aegean in the European Union.
+<br>
+
+Children
+<br>
+Info-Sec-Lab Team does not knowingly collect Personal Data from children under the age of 16. If you are under 16, please do not submit any Personal Data through the Services.
+
+]]>
+    </string>
+
+    <string name="choose_user">Choose a User</string>
+</resources>
