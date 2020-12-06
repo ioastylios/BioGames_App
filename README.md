@@ -26,21 +26,11 @@ Following, you create a user.
 
 # 1.5	API in the folder public_html 
 
-In the folder “For Data Base” you will find the folder public_html where there is the code of the API. We put the files of the folder public_html in the folder public_html of the server. The connection file connect.php, has the connection commands with the database. You must insert your credentials in the following fields, as shown below:
-<?php
-$db_name="Your db name";
+In the folder “For Data Base” you will find the folder public_html where there is the code of the API. We put the files of the folder public_html in the folder public_html of the server. The connection file connect.php, has the connection commands with the database. You must insert your credentials in the following fields, as shown below: $db_name="Your db name";
 $mysql_user="Your user name";
 $mysql_pass="Your password";
-$server_name="localhost";
 
-$con=mysqli_connect($server_name,$mysql_user,$mysql_pass,$db_name);
 
-if(!$con){
-	//echo "Connection error";
-}else{
-	//echo "Connection stablish";
-}
-?>
 
 # 1.6	Application code
 You can download the code or clone it. Run the code in Android Studio and create an APK with which you can install the application on a mobile device.
