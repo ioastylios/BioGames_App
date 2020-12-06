@@ -13,10 +13,10 @@ The online database is designed in such a way that multiple users can store thei
 Also, the application is completely secure as it does not receive any personal information from users while it automatically informs them about the access to the available resources of each device during installation and execution.
 The API is built to upload the given data from the application and to store it in the online MySQL database. The API data transmission is built on key elements and therefore is not encrypted.
 
-#1.2	Assumptions
+# 1.2	Assumptions
 It is assumed that the user has an internet connection and he/she has given the required access permission to the application which is requested after the first boot. It is also assumed that there is no need to encrypt transfers between the application and the API.
 
-#1.3	Application environment
+# 1.3	Application environment
 The "BioGames" application communicates directly with the local database system. The online database uses MySQL system. The application sends the data to the API which then takes over the storage of the data in the database.
 
 # 1.4	Database and API installation
