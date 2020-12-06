@@ -1,9 +1,12 @@
 # BioGames: A Behavioral Biometrics Collection Tool for Mobile Devices
 
+If you simply want to try the app then download the BioGamesApp.apk and install it on your mobile device. If you want to create your database to collect your research data follow the instructions below. 
+
 # 1	Introduction
 This document contains and defines the requirements, specifications and how the Android application called "BioGames" has been developed. The purpose of this document is to present the use of the application, so that it can be studied and extended by others.
 BioGames is an Android application for controlling sensor values by users, including accelerometer measurements, gyroscope, touch gestures and keystroke dynamics.
 The two main objectives of this application are:
+
 • The recording of sensor values, touch gestures and keystroke dynamics.
 • The online storage of values in a database.
 
