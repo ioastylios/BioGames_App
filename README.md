@@ -17,7 +17,7 @@ The API is built to upload the given data from the application and to store it i
 It is assumed that the user has an internet connection and he/she has given the required access permission to the application which is requested after the first boot. It is also assumed that there is no need to encrypt transfers between the application and the API.
 
 # 1.3	Application environment
-The "BioGames" application communicates directly with the local database system. The online database uses MySQL system. The application sends the data to the API which then takes over the storage of the data in the database.
+The "BioGames" application communicates directly with an onlin database system. The online database uses MySQL system. The application sends the data to the API which then takes over the storage of the data in the database.
 
 # 1.4	Database and API installation
 We create the database on mysql server (e.g. with phpmyadmin).In the folder “For Data Base” you will find the DataBase creation.sql file.
