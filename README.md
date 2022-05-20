@@ -43,5 +43,4 @@ The project was developed in Android Studio. To use the source code of the progr
 
 # Cite
 
-Stylios, I., Kokolakis, S., Skalkos, A. and Chatzis, S. (2021), "BioGames: a new paradigm and a behavioral biometrics collection tool for research purposes", Information and Computer Security, Vol. ahead-of-print No. ahead-of-print. https://doi.org/10.1108/ICS-12-2020-0196
-https://www.emerald.com/insight/content/doi/10.1108/ICS-12-2020-0196/full/html
+I. Stylios, S. Kokolakis, A. Skalkos, S. Chatzis, (2021), "BioGames: a new paradigm and a behavioral biometrics collection tool for research purposes", Information and Computer Se-curity, Vol. ahead-of-print No. ahead-of-print. https://doi.org/10.1108/ICS-12-2020-0196 
